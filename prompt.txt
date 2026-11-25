@@ -1,0 +1,1 @@
+Build a program that writes one fortune, a fortune in a pot, to /output/entry.txt for the make.fun bounty u-golden-heron-44-fortune-in-a-pot-ded981e9. One line only.
